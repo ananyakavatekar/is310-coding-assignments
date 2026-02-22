@@ -1,8 +1,5 @@
-# The Archive Only Counts What It Can See
+# The Invisibility of Womens' Labor
 **Author:** Ananya Kavatekar
-
-## Maze Theme
-The Invisibility of Womens' Labor
 
 Recommended commands:
 - `ls` to list files and folders
