@@ -15,10 +15,10 @@ I observed the following
 
 The site utilized "semantic" or descriptive HTML that highlighted key strcutures.
 This included the following: 
-- <header> 
-- <div>
-- <h1> 
-- <section> 
+- `<header>`
+- `<div>`
+- `<h1>`
+- `<section>`
 
 There is also enables accessibility features such as role="alertdialog" that allows for effective usage
 of screen readers for the literary or visually impaired. 
