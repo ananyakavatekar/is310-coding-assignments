@@ -6,7 +6,7 @@ Welcome! This script is intended to allow users like you to enter and aggregate 
 - political_role_or_influence
 - major_contribution
 
-##Requirements 
+## Requirements 
 - Python (3) 
 - rich
 
