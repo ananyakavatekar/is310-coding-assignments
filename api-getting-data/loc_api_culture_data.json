@@ -1,0 +1,39 @@
+{
+  "selected_api": "Library of Congress API",
+  "loc_item": {
+    "title": "Music in the Women's Suffrage Movement | Articles and Essays | Women's Suffrage in Sheet Music | Digital Collections",
+    "date": null,
+    "description": [
+      "For as long as socially and politically aware citizens have gathered to protest laws and voice dissent, music has served a paramount role; the women's suffrage movement proves no exception. From local community suffrage meetings, to large-scale city-wide marches, to prison cells -- suffragists consistently unified, rallied, and asserted their unbreakable spirit in song."
+    ],
+    "subject": null,
+    "item_type": [
+      "web page"
+    ],
+    "image_url": [
+      "https://www.loc.gov/static/collections/womens-suffrage-sheet-music/500_500.jpg"
+    ],
+    "url": "https://www.loc.gov/collections/womens-suffrage-sheet-music/articles-and-essays/music-in-the-womens-suffrage-movement/"
+  },
+  "europeana_item": {
+    "id": "/180/10622_13990015_5963_42C9_ADB6_EE712D2B7265_cho",
+    "title": [
+      "Mrs billington arrested at a protest action in Parliament Series of 2 photos"
+    ],
+    "type": "IMAGE",
+    "dataProvider": [
+      "International Institute of Social History"
+    ],
+    "provider": [
+      "International Association of Labour History Institutions"
+    ],
+    "country": [
+      "Netherlands"
+    ],
+    "guid": "https://www.europeana.eu/item/180/10622_13990015_5963_42C9_ADB6_EE712D2B7265_cho?utm_source=api&utm_medium=api&utm_campaign=crepawaryme",
+    "link": "https://api.europeana.eu/record/180/10622_13990015_5963_42C9_ADB6_EE712D2B7265_cho.json?wskey=crepawaryme",
+    "edmPreview": [
+      "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fhdl.handle.net%2F10622%2F30051000481280%3Flocatt%3Dview%3Alevel3&type=IMAGE"
+    ]
+  }
+}
